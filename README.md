@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+For my personal portfolio project, I utilized ReactJS to create a website featuring various components such as an 'About' page, a 'Contact Me' page, and a 'Certifications' page. To add functionality to the website, I implemented the emailJS and SwiperJS libraries. The website was designed with intense CSS styling and was made fully responsive to ensure that it could be accessed on a variety of devices. The project was deployed on Netlify after approximately 2-3 months of development. This project allowed me to showcase my skills in web development and design, and challenged me to utilize a range of technologies to create a functional and visually appealing website.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
